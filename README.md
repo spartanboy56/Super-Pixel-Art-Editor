@@ -24,9 +24,11 @@ Cost Restraints: Since this is being developed by individuals and not a company,
 #Communication Plan:
 Internal Communication: Developers are encouraged to use the Slack chat. 
 
-#External Communication: Public documentation will be available in the form of the wiki page available on the GitHub page.
+#External Communication: 
+Public documentation will be available in the form of the wiki page available on the GitHub page.
 
 #Documentation:
 Technical documentation: Documentation will be provided as part of the Git repository
 
-#End-User Documentation: End user documentation will be provided in the form of a help menu or readme file.
+#End-User Documentation: 
+End user documentation will be provided in the form of a help menu or readme file.
